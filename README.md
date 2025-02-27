@@ -23,9 +23,6 @@
 - Mettez les fichier dans votre serveur
 - Amusez vous !
 
-- Lien vers la ***dernière version*** **[Cliquez ici](https://github.com/Shape581/IllimtedStack581/releases/latest)**
-- Lien ver la ***documentation*** **[Cliquez ici](https://github.com/Shape581/IllimtedStack581)**
-
 ### :link:・Dépendance
 
 - Aucune dépendance
@@ -33,3 +30,5 @@
 ### :speech_balloon:・Contact
 
 - *Vous pouvez me contacter en MP si besoin.*
+
+![IllimitedStack581](https://github.com/user-attachments/assets/e4743ee2-b443-4be4-b773-1f94ef82fa8e)
